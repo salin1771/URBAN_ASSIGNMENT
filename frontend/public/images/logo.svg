@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="40" rx="8" fill="#1976D2"/>
+  <path d="M20 12L15 22H25L20 12Z" fill="white"/>
+  <path d="M20 12L25 22H30L20 12Z" fill="#BBDEFB"/>
+  <path d="M20 28L15 18H25L20 28Z" fill="white"/>
+  <path d="M20 28L25 18H30L20 28Z" fill="#BBDEFB"/>
+  <text x="40" y="26" font-family="Arial" font-size="18" font-weight="bold" fill="white">UrbanServices</text>
+</svg>
